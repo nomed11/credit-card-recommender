@@ -2,7 +2,7 @@ import pandas as pd
 
 def load_credit_card_data(file_path: str) -> pd.DataFrame:
     """
-    Load credit card data from a CSV file.
+    load credit card data from a CSV file.
     
     args:
         file_path (str): path to the CSV file containing credit card data.
@@ -24,6 +24,7 @@ def load_credit_card_data(file_path: str) -> pd.DataFrame:
         print(f"Error: Unable to parse the file at {file_path}. Make sure it's a valid CSV.")
         return pd.DataFrame()
 
+# test function directly
 if __name__ == "__main__":
     df = load_credit_card_data("../data/credit_cards.csv")
     print(df.head())
