@@ -82,8 +82,5 @@ Follow the prompts to input your preferences and receive personalized credit car
 - Add more sophisticated matching algorithms
 - Implement user accounts and recommendation history
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 This project is licensed under the MIT License.
