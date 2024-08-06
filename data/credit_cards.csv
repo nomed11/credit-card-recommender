@@ -1,21 +1,21 @@
-name                                 ,annual_fee ,rewards_type ,credit_score_required ,foreign_transaction_fee ,sign_up_bonus
-Chase Sapphire Preferred             ,        95 ,Travel       ,Good                  ,                    0   ,60000 points
-Capital One Venture                  ,        95 ,Travel       ,Excellent             ,                    0   ,75000 miles
-Citi Double Cash                     ,         0 ,Cash Back    ,Good                  ,                    3   ,0
-American Express Gold                ,       250 ,Dining       ,Good                  ,                    0   ,60000 points
-Discover it Cash Back                ,         0 ,Cash Back    ,Fair                  ,                    0   ,Cashback Match
-Chase Freedom Unlimited              ,         0 ,Cash Back    ,Good                  ,                    3   ,Bonus cash back
-American Express Platinum            ,       695 ,Travel       ,Excellent             ,                    0   ,100000 points
-Bank of America Cash Rewards         ,         0 ,Cash Back    ,Good                  ,                    3   ,200 cash bonus
-Capital One Quicksilver              ,         0 ,Cash Back    ,Good                  ,                    0   ,200 cash bonus
-Wells Fargo Active Cash              ,         0 ,Cash Back    ,Good                  ,                    3   ,200 cash bonus
-Citi Premier                         ,        95 ,Travel       ,Good                  ,                    0   ,60000 points
-U.S. Bank Altitude Reserve           ,       400 ,Travel       ,Excellent             ,                    0   ,50000 points
-Chase Ink Business Preferred         ,        95 ,Business     ,Good                  ,                    0   ,100000 points
-American Express Blue Cash Preferred ,        95 ,Cash Back    ,Good                  ,                    2.7 ,300 cash bonus
-Capital One Savor                    ,        95 ,Dining       ,Good                  ,                    0   ,300 cash bonus
-Discover it Miles                    ,         0 ,Travel       ,Good                  ,                    0   ,Miles Match
-Chase Freedom Flex                   ,         0 ,Cash Back    ,Good                  ,                    3   ,200 cash bonus
-American Express Green Card          ,       150 ,Travel       ,Good                  ,                    0   ,45000 points
-Capital One VentureOne               ,         0 ,Travel       ,Good                  ,                    0   ,20000 miles
-Citi Rewards+                        ,         0 ,Points       ,Fair                  ,                    3   ,20000 points
+name,annual_fee,rewards_type,credit_score_required,foreign_transaction_fee,sign_up_bonus
+Chase Sapphire Preferred,95,Travel,Good,0,60000 points
+Capital One Venture,95,Travel,Excellent,0,75000 miles
+Citi Double Cash,0,Cash Back,Good,3,0
+American Express Gold,250,Dining,Good,0,60000 points
+Discover it Cash Back,0,Cash Back,Fair,0,Cashback Match
+Chase Freedom Unlimited,0,Cash Back,Good,3,Bonus cash back
+American Express Platinum,695,Travel,Excellent,0,100000 points
+Bank of America Cash Rewards,0,Cash Back,Good,3,200 cash bonus
+Capital One Quicksilver,0,Cash Back,Good,0,200 cash bonus
+Wells Fargo Active Cash,0,Cash Back,Good,3,200 cash bonus
+Citi Premier,95,Travel,Good,0,60000 points
+U.S. Bank Altitude Reserve,400,Travel,Excellent,0,50000 points
+Chase Ink Business Preferred,95,Business,Good,0,100000 points
+American Express Blue Cash Preferred,95,Cash Back,Good,2.7,300 cash bonus
+Capital One Savor,95,Dining,Good,0,300 cash bonus
+Discover it Miles,0,Travel,Good,0,Miles Match
+Chase Freedom Flex,0,Cash Back,Good,3,200 cash bonus
+American Express Green Card,150,Travel,Good,0,45000 points
+Capital One VentureOne,0,Travel,Good,0,20000 miles
+Citi Rewards+,0,Points,Fair,3,20000 points

@@ -1,6 +1,6 @@
 from typing import List, Dict, Any
-from langchain.llms import OpenAI
-from langchain.prompts import PromptTemplate
+from langchain_openai import OpenAI
+from langchain_core.prompts import PromptTemplate
 from config import OPENAI_API_KEY
 
 def generate_recommendations(matches: List[Dict[str, Any]], preferences: Dict[str, Any]) -> str:
@@ -17,7 +17,7 @@ def generate_recommendations(matches: List[Dict[str, Any]], preferences: Dict[st
     llm = OpenAI(temperature=0.7, openai_api_key=OPENAI_API_KEY)
 
     template = """
-    Based on the user's preferences and the top matched credit cards, provide personalized recommendations. 
+    Based on the user's preferences and the top matched credit cards, provide personalized recommendations.
     Be concise but informative, highlighting the key features of each card that align with the user's preferences.
 
     User Preferences:
